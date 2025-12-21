@@ -1,4 +1,4 @@
-## Hi reader, Welcome to my GitHub profile.I am Avatansh, below are some academic and project details about me.
+## Hi, I am Avatansh.
 
 Aspiring Data Scientist with experience in ML modeling, analytics, and research-driven problem solving. Build practical machine learning applications, experiment with Kaggle datasets, and focus on industry-useful insights.
 
