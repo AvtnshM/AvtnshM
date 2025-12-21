@@ -7,8 +7,6 @@ Aspiring Data Scientist with experience in ML modeling, analytics, and research-
 - **HuggingFace Spaces** — [View](https://huggingface.co/AvtnshM)
 - **GitHub Pages** — [Visit](https://avtnshm.github.io/)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/AvtnshM)
-
 ### Featured Work
 - Confusion Matrix Quiz — https://huggingface.co/spaces/AvtnshM/Confusion_matrix_Quiz
 - Indic ASR Comparison — https://huggingface.co/spaces/AvtnshM/Indic_ASR_Comparison_Multi 
