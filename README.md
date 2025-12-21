@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Avatansh
 
-<!--
-**AvtnshM/AvtnshM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist with experience in ML modeling, analytics, and research-driven problem solving. I build practical machine learning applications, experiment with Kaggle datasets, and focus on industry-useful insights.
 
-Here are some ideas to get you started:
+### Links
+- **Kaggle Notebooks** — [Explore](https://www.kaggle.com/avtnshm/code)
+- **HuggingFace Spaces** — [View](https://huggingface.co/AvtnshM)
+- **GitHub Pages** — [Visit](https://avtnshm.github.io/)
+- **LinkedIn** — [Connect](https://www.linkedin.com/in/avtnshm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvtnshM&show_icons=false)
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/AvtnshM)
+
+### Featured Work
+- Confusion Matrix Quiz — https://huggingface.co/spaces/AvtnshM/Confusion_matrix_Quiz
+- Indic ASR Comparison — https://github.com/AvtnshM/Indic_ASR_Comparison_Multi
