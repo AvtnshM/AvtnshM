@@ -8,6 +8,13 @@ Aspiring Data Scientist with experience in ML modeling, analytics, and research-
 - **GitHub Pages** — [Visit](https://avtnshm.github.io/)
 
 ### Featured Work
+- Working Paper / Technical Report
+  Title: A Comparative Study of Clinical ModernBERT and BioMedical ModernBERT on the DDXPlus Dataset
+  Author: Avatansh Malaviya
+  Published: 27 Dec 2025
+  DOI: https://doi.org/10.5281/zenodo.18054727
+  Accessible at: https://doi.org/10.5281/zenodo.18054727
+
 - Confusion Matrix Quiz — https://huggingface.co/spaces/AvtnshM/Confusion_matrix_Quiz
 - Indic ASR Comparison — https://huggingface.co/spaces/AvtnshM/Indic_ASR_Comparison_Multi 
 
